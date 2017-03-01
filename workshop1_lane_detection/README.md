@@ -1,5 +1,8 @@
 # Workshop #1
 
+
+## Setup
+
 The following packages are used in this project:
 
 * matplotlib.pyplot
@@ -24,3 +27,18 @@ If you see something like this, you are good!
 Then commit out in `lanes1.py` the `img_test()` function and run instead `video_test()`. Your script should output a video.
 
 ![output](output1.png)
+
+## The cheallenge
+
+As you can see, `lanes1.py` processes individual images or a video frame-by-frame.
+
+In this demo, this is done by function called `pipeline`. The function gets an image (y * x * 3 numpy array) and returns another image (y * x * 3 numpy array).
+
+You can also pass this function to a `moviepy` clip instance's `fl_image` method, so it filters every frame of the clip using this function.
+
+### Your task
+
+Your task is to replace the `pipeline` function with your own frame-processing function, created from scratch.
+
+*Good luck!*
+
