@@ -28,7 +28,7 @@ Then comment out in `lanes1.py` the `img_test()` function and run instead `video
 
 ![output](output1.png)
 
-## The cheallenge
+## The challenge
 
 As you can see, `lanes1.py` processes individual images or a video frame-by-frame.
 
