@@ -11,7 +11,7 @@ The following packages are used in this project:
 * numpy
 * cv2
 
-The easyest way to create a working environment is to install [miniconda](https://conda.io/miniconda.html) and run the following command to install the packages specied in the `environment.yml` file.
+The easiest way to create a working environment is to install [miniconda](https://conda.io/miniconda.html) and run the following command to install the packages specied in the `environment.yml` file.
 
 `sudo conda env create -f environment.yml`
 
