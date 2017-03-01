@@ -32,7 +32,7 @@ Then commit out in `lanes1.py` the `img_test()` function and run instead `video_
 
 As you can see, `lanes1.py` processes individual images or a video frame-by-frame.
 
-In this demo, this is done by function called `pipeline`. The function gets an image (y * x * 3 numpy array) and returns another image (y * x * 3 numpy array).
+In this demo this is done by a function called `pipeline`. The function gets an image _(y * x * 3 numpy array)_ and returns another image _(y * x * 3 numpy array)_.
 
 You can also pass this function to a `moviepy` clip instance's `fl_image` method, so it filters every frame of the clip using this function.
 
