@@ -21,5 +21,6 @@ and run the demo:
 `python lanes1.py`
 
 If you see something like this, you are good!
+Then commit out in `lanes1.py` the `img_test()` function and run instead `video_test()`. Your script should output a video.
 
 ![output](output1.png)
