@@ -6,7 +6,7 @@
 4. Run the demo code: `node lanes1.js`
 5. Your output file should be something like this:
 
-!(out1.png)[out1.png]
+![out1.png](out1.png)
 
 
 
