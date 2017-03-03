@@ -1,6 +1,6 @@
 # Workshop #1
 
-For JavaScript setup [click here]
+For JavaScript setup [click here](js_start/)
 
 ## Setup for python
 
