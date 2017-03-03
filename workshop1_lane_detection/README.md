@@ -1,7 +1,8 @@
 # Workshop #1
 
+For JavaScript setup [click here]
 
-## Setup
+## Setup for python
 
 The following packages are used in this project:
 
